@@ -6,7 +6,7 @@
 ---
 
 ## 1. Background & Problem Statement
-A mid-sized enterprise discovered that legacy employees, some of whom had admin or privileged access—were offboarded without formalized information security handover, de-provisioning, or asset retrieval. These gaps violated internal policy, posed insider threat risks, and created audit nonconformities. The GRC Analyst was tasked with creating and implementing a secure, auditable process for managing **information security responsibilities during legacy staff contract terminations.**
+A mid-sized enterprise discovered that legacy employees, some of whom had admin or privileged access, were offboarded without formalized information security handover, de-provisioning, or asset retrieval. These gaps violated internal policy, posed insider threat risks, and created audit nonconformities. The GRC Analyst was tasked with creating and implementing a secure, auditable process for managing **information security responsibilities during legacy staff contract terminations.**
 
 ---
 
